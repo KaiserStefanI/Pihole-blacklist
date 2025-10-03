@@ -1,2 +1,2 @@
-# This is KaiserStfanI's pihole blacklist:
+# This is KaiserStfanI's blacklist:
 
